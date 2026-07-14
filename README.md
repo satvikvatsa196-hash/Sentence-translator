@@ -38,7 +38,7 @@ Sentence-translator/
 │
 ├── index.html        # Application interface
 ├── style.css         # Styling and layout
-├── script.js         # API integration and application logic
+├── translate.js         # API integration and application logic
 └── README.md         # Project documentation
 ```
 
